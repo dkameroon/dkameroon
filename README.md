@@ -1,39 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:0f172a,100:2563eb&text=Viktor%20Kryvohuz&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Unity%20Developer%20•%20Mobile%20Games%20•%20Gameplay%20Systems%20•%20UI%20Architecture&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0f172a,100:2563eb&text=Viktor%20Kryvohuz&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Unity%20Developer%20•%20Mobile%20Games%20•%20Gameplay%20Systems%20•%20UI%20Architecture&descAlignY=58&descSize=17"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+mobile+gameplay+systems+with+Unity+%26+C%23;Creating+UI+flows%2C+localization+and+mobile-ready+features;Focused+on+clean+architecture+and+production-ready+workflows"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+mobile+gameplay+systems+with+Unity+%26+C%23;Creating+UI+flows%2C+localization+and+mobile-ready+features;Focused+on+clean+architecture+and+production-ready+workflows"/>
-
-<br><br>
-
-<p>
+<p align="center">
+<strong>
 Unity Developer focused on mobile games, gameplay systems, UI implementation, localization and mobile optimization.
+</strong>
 </p>
 
-<p>
-Based in Dublin, Ireland.
+<p align="center">
+<h3>
+<img src="https://img.icons8.com/fluency/24/marker.png" height="20"/>
+&nbsp;
+Dublin, Ireland
+</h3>
+
+<br>
+
+### My Contacts
+
+<p align="center">
+<a href="https://t.me/VITON_28"><img src="https://img.icons8.com/fluency/48/telegram-app.png" height="44"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/viktor-kryvohuz"><img src="https://img.icons8.com/fluency/48/linkedin.png" height="44"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:kvv200328@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="44"/></a>
 </p>
 
 <br>
 
-<a href="https://dkameroon.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="https://t.me/VITON_28">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/viktor-kryvohuz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:kvv200328@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Tech Stack
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=unity,cs,firebase,git,github,blender"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=unity,cs,firebase,git,github,blender&theme=dark" height="48"/>
+</p>
 
 </div>
 
@@ -67,24 +69,6 @@ My portfolio includes several Unity projects, from small gameplay prototypes to 
 - Localization and multilingual UI support
 - Clean architecture and reusable Unity systems
 - Git-based production workflows
-
----
-
-# Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleads&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zenject-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Localization-34A853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Android_Builds-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mobile_Optimization-FF8C00?style=flat-square"/>
-
-</div>
 
 ---
 
@@ -276,14 +260,21 @@ https://dkameroon.github.io/pages/simplerunner.html
 
 ### Let's Connect
 
-<a href="mailto:kvv200328@gmail.com">Email</a> •
-<a href="https://t.me/VITON_28">Telegram</a> •
-<a href="https://www.linkedin.com/in/viktor-kryvohuz">LinkedIn</a> •
-<a href="https://dkameroon.github.io">Portfolio</a>
+<br>
+
+<p align="center">
+<a href="https://t.me/VITON_28"><img src="https://img.icons8.com/fluency/48/telegram-app.png" height="38"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/viktor-kryvohuz"><img src="https://img.icons8.com/fluency/48/linkedin.png" height="38"/></a>&nbsp;&nbsp;
+<a href="mailto:kvv200328@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="38"/></a>
+</p>
 
 <br>
 
-📍 Dublin, Ireland
+<h3>
+<img src="https://img.icons8.com/fluency/24/marker.png" height="20"/>
+&nbsp;
+Dublin, Ireland
+</h3>
 
 </div>
 
