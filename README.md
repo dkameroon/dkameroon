@@ -12,8 +12,7 @@ Unity Developer focused on mobile games, gameplay systems, UI implementation, lo
 </strong>
 </p>
 
-<p align="center">
-<h3>
+<h3 align="center">
 <img src="https://img.icons8.com/fluency/24/marker.png" height="20"/>
 &nbsp;
 Dublin, Ireland
@@ -45,9 +44,19 @@ Dublin, Ireland
 
 <div align="center">
 
+## 🌐 Open Live Portfolio Website
+
+<br>
+
 <a href="https://dkameroon.github.io">
     <img src="assets/portfolio-preview.png" width="100%"/>
 </a>
+
+<br>
+
+<p align="center">
+<strong>Click the preview image to open the portfolio website</strong>
+</p>
 
 </div>
 
@@ -55,20 +64,28 @@ Dublin, Ireland
 
 # About Me
 
+<p>
 Unity Developer focused on building mobile game features that are clear, maintainable and ready for real project workflows.
+</p>
 
+<p>
 I work with gameplay systems, UI flow, mobile optimization, Firebase/AdMob features, localization and Android-ready Unity builds.
+</p>
 
+<p>
 My portfolio includes several Unity projects, from small gameplay prototypes to more complete mobile game case studies with progression, save systems, AI, procedural generation and production-style architecture.
+</p>
 
 ### Main Focus
 
-- Gameplay systems for mobile games
-- UI screens, popups and HUD implementation
-- Firebase, AdMob and Android-ready builds
-- Localization and multilingual UI support
-- Clean architecture and reusable Unity systems
-- Git-based production workflows
+<ul>
+<li>Gameplay systems for mobile games</li>
+<li>UI screens, popups and HUD implementation</li>
+<li>Firebase, AdMob and Android-ready builds</li>
+<li>Localization and multilingual UI support</li>
+<li>Clean architecture and reusable Unity systems</li>
+<li>Git-based production workflows</li>
+</ul>
 
 ---
 
@@ -76,7 +93,9 @@ My portfolio includes several Unity projects, from small gameplay prototypes to 
 
 ## 🎮 Rushline
 
-**3D Endless Runner** with swipe controls, procedural obstacles, Firebase authentication, leaderboard flow, Zenject architecture, rewarded ads and state-machine gameplay.
+<p>
+<strong>3D Endless Runner</strong> with swipe controls, procedural obstacles, Firebase authentication, leaderboard flow, Zenject architecture, rewarded ads and state-machine gameplay.
+</p>
 
 <div>
 
@@ -92,13 +111,15 @@ My portfolio includes several Unity projects, from small gameplay prototypes to 
 
 ### Implemented
 
-- Core endless runner gameplay loop
-- Swipe-based player controls
-- Procedural obstacle generation
-- State-machine gameplay flow
-- Firebase authentication and leaderboard flow
-- AdMob rewarded ads integration
-- Mobile UI, HUD and optimization-focused structure
+<ul>
+<li>Core endless runner gameplay loop</li>
+<li>Swipe-based player controls</li>
+<li>Procedural obstacle generation</li>
+<li>State-machine gameplay flow</li>
+<li>Firebase authentication and leaderboard flow</li>
+<li>AdMob rewarded ads integration</li>
+<li>Mobile UI, HUD and optimization-focused structure</li>
+</ul>
 
 🔗 **Repository**  
 https://github.com/dkameroon/Rushline
@@ -110,7 +131,9 @@ https://dkameroon.github.io/pages/rushline.html
 
 ## 🚗 Car Repair Shop
 
-**3D Idle Tycoon** with AI mechanics, crafting, upgrades, inventory management, progression systems and JSON-based save logic.
+<p>
+<strong>3D Idle Tycoon</strong> with AI mechanics, crafting, upgrades, inventory management, progression systems and JSON-based save logic.
+</p>
 
 <div>
 
@@ -126,13 +149,15 @@ https://dkameroon.github.io/pages/rushline.html
 
 ### Implemented
 
-- AI-controlled mechanics and worker behavior
-- NavMesh-based movement logic
-- Inventory and crafting-related gameplay systems
-- Economy, upgrades and progression flow
-- JSON save system
-- ScriptableObject-based configuration
-- Mobile-friendly UI implementation
+<ul>
+<li>AI-controlled mechanics and worker behavior</li>
+<li>NavMesh-based movement logic</li>
+<li>Inventory and crafting-related gameplay systems</li>
+<li>Economy, upgrades and progression flow</li>
+<li>JSON save system</li>
+<li>ScriptableObject-based configuration</li>
+<li>Mobile-friendly UI implementation</li>
+</ul>
 
 🔗 **Repository**  
 https://github.com/dkameroon/CarRepairShop
@@ -144,7 +169,9 @@ https://dkameroon.github.io/pages/carrepairshop.html
 
 ## 🧩 Vertex Puzzle
 
-**Logic Puzzle Game** where the player connects vertices and completes all paths under time pressure.
+<p>
+<strong>Logic Puzzle Game</strong> where the player connects vertices and completes all paths under time pressure.
+</p>
 
 <div>
 
@@ -160,12 +187,14 @@ https://dkameroon.github.io/pages/carrepairshop.html
 
 ### Implemented
 
-- Vertex-connection puzzle gameplay
-- Path completion logic
-- Timer-based challenge flow
-- LineRenderer-based visual connection system
-- Progress persistence with PlayerPrefs
-- Mobile-friendly UX and UI flow
+<ul>
+<li>Vertex-connection puzzle gameplay</li>
+<li>Path completion logic</li>
+<li>Timer-based challenge flow</li>
+<li>LineRenderer-based visual connection system</li>
+<li>Progress persistence with PlayerPrefs</li>
+<li>Mobile-friendly UX and UI flow</li>
+</ul>
 
 🔗 **Repository**  
 https://github.com/dkameroon/VertexPuzzle
@@ -177,7 +206,9 @@ https://dkameroon.github.io/pages/vertexpuzzle.html
 
 ## ⛳ Golf
 
-**Arcade Mini Golf** with swipe controls, physics-based shot mechanics, level progression and star rating system.
+<p>
+<strong>Arcade Mini Golf</strong> with swipe controls, physics-based shot mechanics, level progression and star rating system.
+</p>
 
 <div>
 
@@ -193,12 +224,14 @@ https://dkameroon.github.io/pages/vertexpuzzle.html
 
 ### Implemented
 
-- Physics-based golf shot system
-- Swipe input controls
-- Level progression flow
-- Star rating system
-- PlayerPrefs-based progress storage
-- Mobile UI and gameplay flow
+<ul>
+<li>Physics-based golf shot system</li>
+<li>Swipe input controls</li>
+<li>Level progression flow</li>
+<li>Star rating system</li>
+<li>PlayerPrefs-based progress storage</li>
+<li>Mobile UI and gameplay flow</li>
+</ul>
 
 🔗 **Repository**  
 https://github.com/dkameroon/GOLF
@@ -210,7 +243,9 @@ https://dkameroon.github.io/pages/golf.html
 
 ## 🏃 SimpleRunner
 
-**2.5D Endless Runner** with obstacle avoidance, coin collection and increasing game speed.
+<p>
+<strong>2.5D Endless Runner</strong> with obstacle avoidance, coin collection and increasing game speed.
+</p>
 
 <div>
 
@@ -226,13 +261,15 @@ https://dkameroon.github.io/pages/golf.html
 
 ### Implemented
 
-- 2.5D endless runner gameplay loop
-- Obstacle avoidance logic
-- Coin collection system
-- Increasing game speed and difficulty
-- Collision-based gameplay events
-- Android-ready mobile build support
-- PlayerPrefs-based progress storage
+<ul>
+<li>2.5D endless runner gameplay loop</li>
+<li>Obstacle avoidance logic</li>
+<li>Coin collection system</li>
+<li>Increasing game speed and difficulty</li>
+<li>Collision-based gameplay events</li>
+<li>Android-ready mobile build support</li>
+<li>PlayerPrefs-based progress storage</li>
+</ul>
 
 🔗 **Repository**  
 https://github.com/dkameroon/SimpleRunner
@@ -244,13 +281,15 @@ https://dkameroon.github.io/pages/simplerunner.html
 
 # Current Interests
 
-- Mobile game architecture
-- Gameplay systems design
-- Production-ready Unity workflows
-- UI / UX implementation
-- Localization pipelines
-- Firebase / AdMob integration
-- Optimization for mobile platforms
+<ul>
+<li>Mobile game architecture</li>
+<li>Gameplay systems design</li>
+<li>Production-ready Unity workflows</li>
+<li>UI / UX implementation</li>
+<li>Localization pipelines</li>
+<li>Firebase / AdMob integration</li>
+<li>Optimization for mobile platforms</li>
+</ul>
 
 ---
 
@@ -270,7 +309,7 @@ https://dkameroon.github.io/pages/simplerunner.html
 
 <br>
 
-<h3>
+<h3 align="center">
 <img src="https://img.icons8.com/fluency/24/marker.png" height="20"/>
 &nbsp;
 Dublin, Ireland
