@@ -1,6 +1,17 @@
-# Hi, I'm Viktor Kryvohuz 👋
+# Viktor Kryvohuz
+
+### Unity Developer • Mobile Games • Gameplay Systems • UI Architecture
 
 Unity Developer focused on mobile games, gameplay systems, UI architecture, localization and mobile optimization.
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Zenject](https://img.shields.io/badge/Zenject-6A5ACD?style=for-the-badge)
+
+---
 
 📍 Dublin, Ireland  
 🎮 Unity / C# / Mobile Games  
@@ -10,17 +21,19 @@ Unity Developer focused on mobile games, gameplay systems, UI architecture, loca
 
 ---
 
-## About Me
+# About Me
 
-I am a Unity Developer specializing in mobile game development, gameplay systems, UI implementation and mobile optimization.
+Unity Developer focused on mobile games, gameplay systems and UI architecture.
 
-I have built several Unity projects, including Rushline, Car Repair Shop, Vertex Puzzle, Golf and Simple Runner. My work includes gameplay mechanics, UI flows, progression systems, localization, save systems and mobile-focused performance improvements.
+Experienced in gameplay programming, UI implementation, localization systems, save systems and mobile optimization using Unity and C#.
 
-I also have experience with Firebase, AdMob, Zenject, Git-based workflows, prefab-based systems, demo scenes and Unity asset packaging.
+Worked on projects including Rushline, Car Repair Shop, Vertex Puzzle, Golf and Simple Runner.
+
+Also experienced with Firebase, AdMob, Zenject, Git workflows, prefab-based systems and Unity asset packaging.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 - Unity / C#
 - Mobile Game Development
@@ -36,44 +49,72 @@ I also have experience with Firebase, AdMob, Zenject, Git-based workflows, prefa
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Rushline
-Mobile endless runner focused on core gameplay loop, obstacle systems, player controls, UI flows and mobile optimization.
+## Rushline
+Mobile endless runner focused on gameplay systems, modular architecture, UI flows and mobile optimization.
 
-Repository: https://github.com/dkameroon/Rushline
+🔗 Repository:  
+https://github.com/dkameroon/Rushline
 
----
-
-### Car Repair Shop
-3D idle-tycoon game with AI worker system, economy, inventory logic and JSON save system.
-
-Repository: https://github.com/dkameroon/CarRepairShop
+🔗 Portfolio Page:  
+https://dkameroon.github.io/pages/rushline.html
 
 ---
 
-### Vertex Puzzle
-Puzzle game focused on gameplay logic, progression system and user experience.
+## Car Repair Shop
+3D idle-tycoon game featuring AI workers, economy systems, inventory management and JSON save system.
 
-Repository: https://github.com/dkameroon/VertexPuzzle
+🔗 Repository:  
+https://github.com/dkameroon/CarRepairShop
 
----
-
-### Golf
-Arcade mobile golf game with physics-based gameplay and shot control.
-
-Repository: https://github.com/dkameroon/GOLF
+🔗 Portfolio Page:  
+https://dkameroon.github.io/pages/carrepairshop.html
 
 ---
 
-### Simple Runner
-Endless runner prototype with procedural generation and runner mechanics.
+## Vertex Puzzle
+Puzzle game focused on progression systems, gameplay logic and user experience.
 
-Repository: https://github.com/dkameroon/SimpleRunner
+🔗 Repository:  
+https://github.com/dkameroon/VertexPuzzle
+
+🔗 Portfolio Page:  
+https://dkameroon.github.io/pages/vertexpuzzle.html
 
 ---
 
-## Portfolio
+## Golf
+Arcade mobile golf game with physics-based gameplay and shot control systems.
+
+🔗 Repository:  
+https://github.com/dkameroon/GOLF
+
+🔗 Portfolio Page:  
+https://dkameroon.github.io/pages/golf.html
+
+---
+
+## Simple Runner
+Endless runner prototype featuring procedural generation and runner mechanics.
+
+🔗 Repository:  
+https://github.com/dkameroon/SimpleRunner
+
+🔗 Portfolio Page:  
+https://dkameroon.github.io/pages/simplerunner.html
+
+---
+
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkameroon&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkameroon&layout=compact&theme=tokyonight)
+
+---
+
+# Portfolio
 
 You can view my full portfolio with gameplay videos, project descriptions and downloadable builds here:
 
@@ -81,7 +122,7 @@ https://dkameroon.github.io
 
 ---
 
-## Contact
+# Contact
 
 - LinkedIn: https://www.linkedin.com/in/viktor-kryvohuz
 - GitHub: https://github.com/dkameroon
