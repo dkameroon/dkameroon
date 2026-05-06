@@ -123,7 +123,7 @@ My portfolio includes several Unity projects, from small gameplay prototypes to 
 https://github.com/dkameroon/Rushline
 
 🌐 **Portfolio Page**  
-https://dkameroon.github.io/pages/rushline.html
+https://dkameroon.github.io/projects/rushline.html
 
 ---
 
@@ -161,7 +161,7 @@ https://dkameroon.github.io/pages/rushline.html
 https://github.com/dkameroon/CarRepairShop
 
 🌐 **Portfolio Page**  
-https://dkameroon.github.io/pages/carrepairshop.html
+https://dkameroon.github.io/projects/carrepairshop.html
 
 ---
 
@@ -198,7 +198,7 @@ https://dkameroon.github.io/pages/carrepairshop.html
 https://github.com/dkameroon/VertexPuzzle
 
 🌐 **Portfolio Page**  
-https://dkameroon.github.io/pages/vertexpuzzle.html
+https://dkameroon.github.io/projects/vertexpuzzle.html
 
 ---
 
@@ -235,7 +235,7 @@ https://dkameroon.github.io/pages/vertexpuzzle.html
 https://github.com/dkameroon/GOLF
 
 🌐 **Portfolio Page**  
-https://dkameroon.github.io/pages/golf.html
+https://dkameroon.github.io/projects/golf.html
 
 ---
 
@@ -273,13 +273,14 @@ https://dkameroon.github.io/pages/golf.html
 https://github.com/dkameroon/SimpleRunner
 
 🌐 **Portfolio Page**  
-https://dkameroon.github.io/pages/simplerunner.html
+https://dkameroon.github.io/projects/simplerunner.html
 
 ---
 
 # Current Interests
 
 <ul>
+
 <li>Mobile game architecture</li>
 <li>Gameplay systems design</li>
 <li>Production-ready Unity workflows</li>
