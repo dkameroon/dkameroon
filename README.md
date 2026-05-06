@@ -44,8 +44,6 @@ Dublin, Ireland
 
 <div align="center">
 
-## 🌐 Open Live Portfolio Website
-
 <br>
 
 <a href="https://dkameroon.github.io">
